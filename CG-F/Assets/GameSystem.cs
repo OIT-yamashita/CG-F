@@ -19,7 +19,7 @@ public class GameSystem : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene("New_Scene");
+        SceneManager.LoadScene("MainMenu");
     }
 
     public void EndGame()
