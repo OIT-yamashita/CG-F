@@ -19,7 +19,7 @@ public class GameSystem : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("ballPlay");
     }
 
     public void EndGame()

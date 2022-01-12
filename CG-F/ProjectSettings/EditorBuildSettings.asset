@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: d4041b0c7dcae4c468fc951b13304dba
+  - enabled: 1
+    path: Assets/Scenes/ballPlay.unity
+    guid: e846266f1fd2e7348ad3977c0c54ba0a
+  - enabled: 1
+    path: Assets/Scenes/Gohan.unity
+    guid: 416dd02b221ae0c4aa859df13e082c6c
   m_configObjects: {}

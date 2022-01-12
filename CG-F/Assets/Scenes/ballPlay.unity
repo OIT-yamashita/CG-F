@@ -1802,8 +1802,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 551725159}
-        m_MethodName: ReturnTitle
+      - m_Target: {fileID: 1085545574}
+        m_MethodName: NextStage
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2341,7 +2341,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\u30E1\u30CB\u30E5\u30FC\u306B\u623B\u308B"
+  m_Text: "\u6B21\u306B\u9032\u3080"
 --- !u!222 &1918737349
 CanvasRenderer:
   m_ObjectHideFlags: 0

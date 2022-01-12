@@ -61,6 +61,12 @@ public class ChoseEvent : MonoBehaviour
         TitleWindow.SetActive(true);
 
     }
+
+    public void NextStage()
+    {
+        SceneManager.LoadScene("Gohan");
+
+    }
     /*
     private IEnumerator DropBall()
     {
